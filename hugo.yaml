@@ -1,0 +1,9 @@
+baseURL: https://philip.cammarata.me/
+languageCode: en-us
+title: philip.cammarata.me
+theme: papermod
+
+mainsections: ["posts"]
+
+params:
+  env: production
