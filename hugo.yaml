@@ -1,7 +1,7 @@
 baseURL: https://philip.cammarata.me/
 languageCode: en-us
 title: philip.cammarata.me
-theme: papermod
+theme: PaperMod
 
 mainsections: ["posts"]
 
