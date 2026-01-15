@@ -2,6 +2,7 @@
   "compatibility_date": "2026-01-15",
   "name": "philip-cammarata-me",
   "assets": {
-    "directory": "./public"
+    "directory": "./public",
+    "not_found_handling": "404-page"
   }
 }
